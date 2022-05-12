@@ -1,5 +1,4 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/mystery-maze)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/mystery-maze)
 ![GitHub forks](https://img.shields.io/github/forks/vaibhavvikas/mystery-maze)
 ![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/mystery-maze)
 
