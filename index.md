@@ -6,16 +6,17 @@
 # Mystery Maze - AR Treasure Hunt
 Augmented Reality Based Treasure Hunt
 
-This application was built as an event in Version’19, NIT Trichy.
-In traditional treasure hunt games, the players are given a piece of paper consisting of a hint and the player has to go to another location corresponding to the hint to get an another clue. Going back and forth till the player reaches the final destination and wins the game.
+This application was built as a live event in <b>Version’19, NIT Trichy</b>.
+In traditional treasure hunt games, the players are given a piece of paper consisting of a hint and the player has to go to another location corresponding to the hint to get another clue. Going back and forth till the player reaches the final destination and wins the game.
 
-The mystery maze app modifies the traditional Treasure Hunt games in the form of an app. When the player opens the app, they are given a hint and the plaer has to go to the location corrsponding to the location and scan the object mentioned in the hint, with the AR camera, inside the app. As shown in the screenshot, the user will get another hint to the new location.
+The mystery maze app modifies the traditional Treasure Hunt games in the form of an app. When the player opens the app, they are given a hint. The player has to go to the location corresponding to the hint and scan the object mentioned there, with the AR camera, inside the app. As shown in the screenshot, the user will get another hint to the new location.
 
 ## Features:
 - Unity was used to design the app.
 - 3D map for navigation for the users using Mapbox.
 - Augmented Reality was built for Image Targets using Vuforia.
-- Application was packed as an android app.
+- Application was packaged as an android app.
 
-![Screenshot](https://user-images.githubusercontent.com/28614457/168007663-8c96df84-e3f9-4ecf-a426-d4bf1cb4558d.jpg)
-![Screenshot](https://user-images.githubusercontent.com/28614457/168007670-21ca0507-7953-4587-8a71-4d91afbcc26a.jpg)
+## Screenshots:
+![Screenshot](https://user-images.githubusercontent.com/28614457/168008213-0da73651-0365-49bd-91fc-ef746783da1b.jpg)
+![Screenshot](https://user-images.githubusercontent.com/28614457/168008219-ae0625cf-ce15-4768-825e-9c4bc55a202f.jpg)
