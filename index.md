@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/mystery-maze)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/mystery-maze)
+![GitHub forks](https://img.shields.io/github/forks/vaibhavvikas/mystery-maze)
+![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/mystery-maze)
 
-You can use the [editor on GitHub](https://github.com/vaibhavvikas/TreasureHunt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Mystery Maze - AR Treasure Hunt
+Augmented Reality Based Treasure Hunt
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This application was built as an event in Version’19, NIT Trichy.
+In traditional treasure hunt games, the players are given a piece of paper consisting of a hint and the player has to go to another location corresponding to the hint to get an another clue. Going back and forth till the player reaches the final destination and wins the game.
 
-### Markdown
+The mystery maze app modifies the traditional Treasure Hunt games in the form of an app. When the player opens the app, they are given a hint and the plaer has to go to the location corrsponding to the location and scan the object mentioned in the hint, with the AR camera, inside the app. As shown in the screenshot, the user will get another hint to the new location.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features:
+- Unity was used to design the app.
+- 3D map for navigation for the users using Mapbox.
+- Augmented Reality was built for Image Targets using Vuforia.
+- Application was packed as an android app.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaibhavvikas/TreasureHunt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://user-images.githubusercontent.com/28614457/168003996-582927b8-aad2-41d3-b9fa-ed421481a272.jpg" width=50% height=50%/> | <img src="https://user-images.githubusercontent.com/28614457/168004001-b0f898a8-a1de-49f2-b525-899fa68683af.jpg" width=50% height=50%/>
+--- | ---
