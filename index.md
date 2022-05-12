@@ -18,5 +18,5 @@ The mystery maze app modifies the traditional Treasure Hunt games in the form of
 - Application was packaged as an android app.
 
 ## Screenshots:
-![Screenshot](https://user-images.githubusercontent.com/28614457/168008213-0da73651-0365-49bd-91fc-ef746783da1b.jpg)
 ![Screenshot](https://user-images.githubusercontent.com/28614457/168008219-ae0625cf-ce15-4768-825e-9c4bc55a202f.jpg)
+![Screenshot](https://user-images.githubusercontent.com/28614457/168008213-0da73651-0365-49bd-91fc-ef746783da1b.jpg)
