@@ -17,5 +17,5 @@ The mystery maze app modifies the traditional Treasure Hunt games in the form of
 - Augmented Reality was built for Image Targets using Vuforia.
 - Application was packed as an android app.
 
-<img src="https://user-images.githubusercontent.com/28614457/168003996-582927b8-aad2-41d3-b9fa-ed421481a272.jpg" width=50% height=50%/>
-<img src="https://user-images.githubusercontent.com/28614457/168004001-b0f898a8-a1de-49f2-b525-899fa68683af.jpg" width=50% height=50%/>
+![Screenshot](https://user-images.githubusercontent.com/28614457/168007663-8c96df84-e3f9-4ecf-a426-d4bf1cb4558d.jpg)
+![Screenshot](https://user-images.githubusercontent.com/28614457/168007670-21ca0507-7953-4587-8a71-4d91afbcc26a.jpg)
