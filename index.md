@@ -1,9 +1,11 @@
+**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> Mystery Maze**
+
+
+# Mystery Maze - AR Treasure Hunt
+
 ![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/mystery-maze)
 ![GitHub forks](https://img.shields.io/github/forks/vaibhavvikas/mystery-maze)
 ![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/mystery-maze)
-
-# Mystery Maze - AR Treasure Hunt
-Augmented Reality Based Treasure Hunt
 
 This application was built as a live event in <b>Version’19, NIT Trichy</b>.
 In traditional treasure hunt games, the players are given a piece of paper consisting of a hint and the player has to go to another location corresponding to the hint to get another clue. Going back and forth till the player reaches the final destination and wins the game.
